@@ -103,7 +103,7 @@ Carve along the pattern and practice your technique.
 <img src="https://github.com/user-attachments/assets/7d002208-3618-4cb3-a66d-ca49231def0a" width="500" alt="Carving Posture 4">
 
 **Outcome:**  
-<img src="https://github.com/user-attachments/assets/8d4500f6-c9a4-4756-8bad-bc6788a73e22" width="500" alt="Carving Outcome 1">
+<img src="https://github.com/user-attachments/assets/64f4ff03-6473-4f3e-9a10-eb73eace89cd" width="500" alt="Carving Outcome 1">
 <img src="https://github.com/user-attachments/assets/13849ca8-d6dc-471c-bebc-c011cba7569b" width="500" alt="Carving Outcome 2">
 
 ---
