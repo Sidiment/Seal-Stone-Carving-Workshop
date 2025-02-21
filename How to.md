@@ -10,10 +10,11 @@ Chinese seals have different names over time and according to different users. B
 ## Preparation List
 | Items | Where | Picture|
 |-----|---------------|----------|
-|     Carving Knife| Ask Toby/Kevin | |
-|     Carving Stone| Ask Toby/Kevin | |
-|     Ink Pad | Ask Toby/Kevin| |
-|     Wet/Dry Sanding Paper 500-1500| Woodshop "Sanding" Area| |
-|     Trace Paper / Mirror| Closet Near Lab Staff Desk | |
-|     Pen / Pencil|  Closet Near Lab Staff Desk | |
+|Carving Knife| Ask Toby/Kevin |![5331740103471_ pic](https://github.com/user-attachments/assets/e924e1a2-15b7-483c-adb8-092ab10e3081)|
+|Carving Stone| Ask Toby/Kevin |![5361740103478_ pic](https://github.com/user-attachments/assets/12d35f25-ec35-4561-8c04-cd53d7d01ab6)|
+|Ink Pad | Ask Toby/Kevin|![5321740103470_ pic](https://github.com/user-attachments/assets/242b4927-2106-4d64-a521-ad5921b7d4b9)|
+|Wet/Dry Sanding Paper 500-1500| Woodshop "Sanding" Area| |
+|Trace Paper / Mirror|Near Lab Staff Desk |![5341740103472_ pic](https://github.com/user-attachments/assets/897a82d5-b331-48ea-b757-5ec2ed02ed3b)|
+|Pen / Pencil|Near Lab Staff Desk | ![5351740103474_ pic](https://github.com/user-attachments/assets/035ce0fb-8d7d-4390-b8b1-083b6408f790)|
+
 
